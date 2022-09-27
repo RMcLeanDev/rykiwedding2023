@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+@font-face{
+  font-family:"adelia";
+  src: url("./assets/adelia.ttf");
+}
+
+h1{
+  font-family: adelia;
+  font-size: 100px;
+  font-weight: 1;
+}
+
+img{
+  max-height: 40vh;
+}
